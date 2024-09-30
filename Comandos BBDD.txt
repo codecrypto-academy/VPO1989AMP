@@ -1,0 +1,13 @@
+MYSQL:
+docker run --name sql-bbdd -p 3306:3306 -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql:8.0.28
+
+NORTHWIND MYSQL:
+https://raw.githubusercontent.com/Jviejo/curso-dbs-14/master/northwind/northwind.mysql.sql
+
+###################################################################################################
+
+POSTGRES
+docker run --name sql-bbdd -e POSTGRES_PASSWORD=my-secret-pw -p 5432:5432 -d postgres:13
+
+NORTHWIND POSTGRESS:
+https://raw.githubusercontent.com/pthom/northwind_psql/master/northwind.sql

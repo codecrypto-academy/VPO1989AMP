@@ -1,0 +1,19 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^10.0.2",
+    "mysql8": "^2.17.3",
+    "oracledb": "^6.4.0",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
