@@ -1,0 +1,123 @@
+{
+    "header":{
+        "nombre":"MyCompany",
+        "links":[
+            {
+                "texto":"Blog",
+                "url":"http://blog.com"
+            },
+            {
+                "texto":"Youtube",
+                "url":"http://youtube.com"
+            }
+        ]
+    },
+    "precios":[
+        {
+            "titulo":"Free",
+            "precio":"$0",
+            "por":"month",
+            "textBoton":"Sign up for free",
+            "features":[
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help center cripto"
+            ]
+        },
+        {
+            "titulo":"Pro",
+            "precio":"$0",
+            "por":"month",
+            "textBoton":"Sign up for pro",
+            "features":[
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help center cripto"
+            ]
+        },
+        {
+            "titulo":"Enterprise",
+            "precio":"$0",
+            "por":"month",
+            "textBoton":"Sign up for Enterprise",
+            "features":[
+                "10 users included",
+                "2GB",
+                "Email",
+                "Help center cripto"
+            ]
+        }
+    ],
+    "carrusel":[
+        {
+            "texto":"First service",
+            "url":"/ametller2.jpg",
+            "alt":"First service"
+        },     
+        {
+            "texto":"New features",
+            "url":"/ametller6.jpg",
+            "alt":"New features"
+        },
+        {
+            "texto":"New service on the world",
+            "url":"/ametller9.jpg",
+            "alt":"New service on the world"
+        }
+    ],
+    "footer":[
+        {
+            "titulo":"Social",
+            "links":[
+                {
+                    "titulo":"Youtube",
+                    "url":"http://youtube.com"
+
+                },
+                {
+                    "titulo":"Instagram",
+                    "url":"http://instagram.com"
+
+                },
+                {
+                    "titulo":"Twitter",
+                    "url":"http://twitter.com"
+
+                },
+                {
+                    "titulo":"Facebook",
+                    "url":"http://facebook.com"
+
+                }
+            ]
+        },
+        {
+            "titulo":"Help",
+            "links":[
+                {
+                    "titulo":"Contact",
+                    "url":"http://youtube.com"
+
+                },
+                {
+                    "titulo":"Email",
+                    "url":"http://instagram.com"
+
+                },
+                {
+                    "titulo":"Privacy",
+                    "url":"http://instagram.com"
+
+                },
+                {
+                    "titulo":"Tearm and conditions",
+                    "url":"http://instagram.com"
+
+                }
+                
+            ]
+        }
+    ]
+}
