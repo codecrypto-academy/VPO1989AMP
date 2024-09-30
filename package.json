@@ -1,0 +1,17 @@
+{
+  "name": "cripto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generar-claves.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "yargs": "^17.7.2"
+  }
+}
